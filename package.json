@@ -1,0 +1,11 @@
+{
+  "name": "how-to-build-discord-bot",
+  "version": "1.0.0",
+  "description": "following freeCodeCamp tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sw@p",
+  "license": "ISC"
+}
